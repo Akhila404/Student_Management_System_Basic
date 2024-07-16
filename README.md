@@ -5,9 +5,13 @@ This Student Management System project is developed using Visual Studio Code, SQ
 ### Project Structure
 
 ├── read.py
+
 ├── insert.py
+
 ├── delete.py
+
 ├── update.py
+
 └── test.py
 
 #### Description
