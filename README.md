@@ -14,32 +14,32 @@ This Student Management System project is developed using Visual Studio Code, SQ
 
 └── test.py
 
-#### Description
+### Description
 
 This project allows for comprehensive management of student data, including the ability to read, insert, delete, and update records within a database. The database setup, including the creation of tables for student information, course information, and transaction details, is handled in the test.py file.
 
-#### Features
+### Features
 
-##### Database Setup (test.py)
+#### Database Setup (test.py)
 - Creates an SQLite database.
 - Sets up three tables: student_info, course_info, and transaction_info.
 
-##### Insert Operations (insert.py)
+#### Insert Operations (insert.py)
 - Functions to insert new student records.
 - Functions to insert new course records.
 - Functions to insert new transaction records.
 
-##### Read Operations (read.py)
+#### Read Operations (read.py)
 - Functions to fetch and display all student records.
 - Functions to fetch and display all course records.
 - Functions to fetch and display all transaction records.
 
-##### Delete Operations (delete.py)
+#### Delete Operations (delete.py)
 - Functions to delete student records by ID.
 - Functions to delete course records by ID.
 - Functions to delete transaction records by ID.
 
-##### Update Operations (update.py)
+#### Update Operations (update.py)
 - Functions to update student records by ID.
 - Functions to update course records by ID.
 - Functions to update transaction records by ID.
