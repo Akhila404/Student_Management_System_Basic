@@ -6,6 +6,8 @@ This Student Management System project is developed using Visual Studio Code, SQ
 
 ├── read.py
 
+├── main.py
+
 ├── insert.py
 
 ├── delete.py
@@ -23,6 +25,10 @@ This project allows for comprehensive management of student data, including the 
 #### Database Setup (test.py)
 - Creates an SQLite database.
 - Sets up three tables: student_info, course_info, and transaction_info.
+
+#### Main Application (main.py)
+- Serves as the main entry point for the application.
+- Coordinates various CRUD operations and interactions with the user.
 
 #### Insert Operations (insert.py)
 - Functions to insert new student records.
